@@ -4,7 +4,7 @@ import time
 import threading
 import json
 
-BOT_TOKEN = 'ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН'  # ← сюда вставь свой токен
+BOT_TOKEN = '7278187669:AAHW2iU0dPF6mexFs6XlJVtC2rmTYOTD2rY'  # ← сюда вставь свой токен
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
